@@ -1,22 +1,21 @@
-
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://youtu.be/A0E8IhyiY0o
 
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+Link to the slide:
+https://docs.google.com/presentation/d/1RbRjiVbYV_EU3I9KsScd_5dhzl5FR4KR/edit?usp=sharing&ouid=104126414423648578581&rtpof=true&sd=true
 
 Paper title:
-NLP using ANN
+Covid-19 On Social Media: Analyzing Misinformation In Twitter Conversations
 
 Link to the paper:
-https://ieeexplore......
+https://arxiv.org/pdf/2003.12309.pdf
 
 Group Number:
-0
+04
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+Md. Rezuwan Hassan (21266014)
+Shafin Mahmud Jalal (21266017)
+Rufaida Tasin (21266037)
+Masum Uddin Ahmed (21273001)
+S. M. Niaz Morshed (22173003)
