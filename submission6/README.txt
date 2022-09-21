@@ -1,4 +1,4 @@
-Completed coursera course using email
+Completed course using email
 rufaida.tasin@g.bracu.ac.bd
 Course name : introduction to data science in python
 Course link: https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
